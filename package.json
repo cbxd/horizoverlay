@@ -24,8 +24,8 @@
     "react-scripts": "^3.4.3"
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0",
-    "serve": "^14.2.6"
+    "gh-pages": "^1.2.0",
+    "serve": "^11.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
