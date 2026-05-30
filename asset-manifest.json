@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/horizoverlay/static/css/main.e9fb7526.chunk.css",
+    "main.js": "/horizoverlay/static/js/main.624deb30.chunk.js",
+    "main.js.map": "/horizoverlay/static/js/main.624deb30.chunk.js.map",
+    "runtime-main.js": "/horizoverlay/static/js/runtime-main.a163dd67.js",
+    "runtime-main.js.map": "/horizoverlay/static/js/runtime-main.a163dd67.js.map",
+    "static/js/2.a4aca41c.chunk.js": "/horizoverlay/static/js/2.a4aca41c.chunk.js",
+    "static/js/2.a4aca41c.chunk.js.map": "/horizoverlay/static/js/2.a4aca41c.chunk.js.map",
+    "index.html": "/horizoverlay/index.html",
+    "precache-manifest.a6fda5e4916704890001fc25c58e747c.js": "/horizoverlay/precache-manifest.a6fda5e4916704890001fc25c58e747c.js",
+    "service-worker.js": "/horizoverlay/service-worker.js",
+    "static/css/main.e9fb7526.chunk.css.map": "/horizoverlay/static/css/main.e9fb7526.chunk.css.map",
+    "static/js/2.a4aca41c.chunk.js.LICENSE.txt": "/horizoverlay/static/js/2.a4aca41c.chunk.js.LICENSE.txt",
+    "static/media/mog.png": "/horizoverlay/static/media/mog.e1e18820.png",
+    "static/media/rpr.png": "/horizoverlay/static/media/rpr.f40357e0.png",
+    "static/media/sge.png": "/horizoverlay/static/media/sge.6b00ff93.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a163dd67.js",
+    "static/js/2.a4aca41c.chunk.js",
+    "static/css/main.e9fb7526.chunk.css",
+    "static/js/main.624deb30.chunk.js"
+  ]
+}
