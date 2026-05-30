@@ -12,4 +12,10 @@ From kzVee:
 From Ladish:
 * Fixes a bug in the combatant filter.
 
-Use the URL https://kzvee.github.io/horizoverlay/ to use this overlay.
+
+All of the Above, forked from kzvee to change their preferences and DH/CRT/CDH display:
+
+Use the URL https://cbxd.github.io/horizoverlay/ to use this overlay.
+
+In ACT or OBS Browser with WS: https://cbxd.github.io/horizoverlay/?HOST_PORT=ws://127.0.0.1:10501/#/
+* update your port as needed
