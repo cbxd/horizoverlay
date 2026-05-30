@@ -29,14 +29,14 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
     "now-start": "serve -s build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "now": "npm-run-all -s build now-deploy",
     "now-deploy": "now build --public",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "NODE_OPTIONS=--openssl-legacy-provider gh-pages -d build"
   },
   "browserslist": {
     "production": [
